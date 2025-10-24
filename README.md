@@ -15,3 +15,4 @@
 1. Create a class named 'Event' with properties 'Name', 'Location', 'DateTime'.
 2. Create a class `EventScheduler` with a list of `Event`. Add methods to `ScheduleEvent`, `CancelEvent`, and `GetUpcomingEvents`.
 3. Implement a feature to prevent double-booking, where two events are scheduled for the exact same time.
+4. Save the Events to persistent storage. Any persistant storage can be used.
